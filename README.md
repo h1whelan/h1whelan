@@ -1,4 +1,4 @@
-Head of Data & AI at a $4bn emerging-market equity fund. Strategy through production — multi-agent AI workflows, dbt/Snowflake, PyTorch, Next.js.
+Head of Data & AI at a $5bn emerging-market equity fund.
 
 Open source contributor.
 
